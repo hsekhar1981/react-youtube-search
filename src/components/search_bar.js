@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 
-//class based component
+//class based componentt
 class SearchBar extends Component {
 
         constructor(props){
